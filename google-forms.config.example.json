@@ -1,0 +1,19 @@
+{
+  "studentRegistration": "https://docs.google.com/forms/d/e/1FAIpQLSdaYgZV9_dd4vRu2PXxukbTJzuIKRpMOwU_OJn3E60JmhjPRQ/viewform?usp=header",
+  "businessRegistration": "https://docs.google.com/forms/d/e/1FAIpQLSeB9lJLHsL0udD2y4oCAxVy4RrccHxyl9LrE_eFgzbDWWshyA/viewform?usp=header",
+  "projectSubmissions": "https://docs.google.com/forms/d/e/1FAIpQLSfp-2xUAAZV36sZFaPM5vPZYYiNQPJsPQd-Ye1gIX_Z0Mys9A/viewform?usp=header",
+  "studentApplications": "",
+  "contactMessages": "https://docs.google.com/forms/d/e/1FAIpQLSdClmPgj7u6TUqhUWLEEzGl7jjuroS4_VG1wRbnIkCGc5z9gg/viewform?usp=header",
+  "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSd4-2wsEd_41gaT_5u9HlpjGbiV7n0Jc7Xj2RD68Slh4ghitQ/viewform?usp=header",
+  "newsletterSubscriptions": "https://docs.google.com/forms/d/e/1FAIpQLSc3eAyYl9Ab_NU545b_Yq-wDl5u9GrBnEbr8UhIQhpkzXPE3A/viewform?usp=header",
+  "fieldMappings": {
+    "studentRegistration": {},
+    "businessRegistration": {},
+    "projectSubmissions": {},
+    "studentApplications": {},
+    "contactMessages": {},
+    "feedback": {},
+    "newsletterSubscriptions": {}
+  },
+  "notes": "The website currently offers links to the official Google Forms. Website form submissions still use local browser storage until verified Google Forms entry IDs or a Google Apps Script/server integration is configured. Student applications have no supplied Google Form link. Do not add passwords, authentication tokens, or private keys here."
+}
